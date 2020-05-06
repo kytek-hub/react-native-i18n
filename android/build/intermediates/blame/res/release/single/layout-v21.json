@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/khiem/Desktop/Ibid/node_modules/react-native-i18n/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/696067750e22afe271b0815aac60d926/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Ibid/node_modules/react-native-i18n/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/696067750e22afe271b0815aac60d926/core-1.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Ibid/node_modules/react-native-i18n/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/696067750e22afe271b0815aac60d926/core-1.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Ibid/node_modules/react-native-i18n/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/696067750e22afe271b0815aac60d926/core-1.0.1/res/layout-v21/notification_action.xml"
+    }
+]
